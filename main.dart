@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'logic/changenotifier.dart';
-import 'myhomepage.dart';
+import 'pages/myhomepage.dart';
 
 void main(){
   runApp(const MyApp());
